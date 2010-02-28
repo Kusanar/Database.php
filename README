@@ -1,0 +1,13 @@
+Snippet from "More information", Database() documentaion:
+
+	Database() intends to be an efficient database wrapper with a large set of features,
+	with a main target of improving development time on little and big projects, in part
+	avoiding partial code rewrites on big-growing websites or SQL chunks in little websites.
+	
+	No new features are planned, only security and compatibility updates will take place
+	(infrequent updates). Database() is built as a common, full-featured database wrapper
+	(to build things in its top), not as an evolving tool.
+	
+	Code is released under the GNU Lesser General Public License (A.K.A. LGPL), version 3.
+	
+Please, read the documentation for more information.
